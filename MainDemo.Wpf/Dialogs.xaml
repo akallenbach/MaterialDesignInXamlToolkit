@@ -119,7 +119,7 @@
                             Width="128" Margin="0 32 0 0">
                         <Button.CommandParameter>
                             <!-- the simplest view model of all, a DateTime. the view can be found in the resources of MainWindow.xaml  -->
-                            <system:DateTime>1966-JUL-30</system:DateTime>
+                            <system:String>Hello England</system:String>
                         </Button.CommandParameter>
                         PASS MODEL
                     </Button>

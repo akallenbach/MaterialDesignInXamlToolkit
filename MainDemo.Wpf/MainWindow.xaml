@@ -24,7 +24,7 @@
             </ResourceDictionary.MergedDictionaries>
 
             <!-- data template used for the dialogs example, defines a View for a ViewModel of type DateTime  -->
-            <DataTemplate DataType="{x:Type system:DateTime}">
+            <DataTemplate DataType="{x:Type system:String}">
                 <StackPanel Margin="16">
                     <TextBlock>England win the World Cup:</TextBlock>
                     <TextBlock Margin="0 8 0 0" Text="{Binding }" />
